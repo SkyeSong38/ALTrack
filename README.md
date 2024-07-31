@@ -15,7 +15,11 @@
 
 <sup>1</sup> Huazhong University of Science and Technology <br>
 <sup>2</sup> La Trobe University<br>    
+*[paper](https://arxiv.org/abs/2407.20730)*
+<br>
 </div>
+
+
 
 <p align="center">
     <img src="pipeline.png" width="100%" height="100%">
